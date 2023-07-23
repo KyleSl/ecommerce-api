@@ -9,7 +9,9 @@
   - [Questions/Contact](#questionscontact)
 
 ## Description
-allows for storage of items through sequelize and express
+Allows for storage of items through sequelize and express  
+[Demonstration Video](https://vimeo.com/847721707?share=copy)
+
 ## Installation
 
 Run the following command to install
@@ -28,5 +30,5 @@ node server.js
 ## Questions/Contact
 
 Use the following contact info to ask any questions you might have:
-  - Github: KyleSl
+  - Github: [KyleSl](https://github.com/KyleSl)
   - Email: kyleslaughter@gmail.com
