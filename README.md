@@ -6,7 +6,6 @@
   - [Description](#description)
   - [Installation](#installation)
   - [Usage Instructions](#usage-instructions)
-  - [Contribution](#contribution)
   - [Questions/Contact](#questionscontact)
 
 ## Description
@@ -22,6 +21,7 @@ npm i
 
 Run the following command to use the program
 ```bash
+npm run seed
 node server.js
 ```
 
